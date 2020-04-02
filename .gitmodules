@@ -1,0 +1,3 @@
+[submodule "piranchaCMS/piranha.core"]
+	path = piranchaCMS/piranha.core
+	url = https://github.com/Softnotik/piranha.core.git
