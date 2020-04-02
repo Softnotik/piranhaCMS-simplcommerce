@@ -1,3 +1,6 @@
 [submodule "piranchaCMS/piranha.core"]
 	path = piranchaCMS/piranha.core
 	url = https://github.com/Softnotik/piranha.core.git
+[submodule "SimplCommerce"]
+	path = SimplCommerce
+	url = https://github.com/Softnotik/SimplCommerce.git
